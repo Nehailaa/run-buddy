@@ -214,7 +214,7 @@ body {
           }
           
           .contact-info p, 
-          .contact-info address {
+          .contact-form address {
             margin: 20px 0;
             line-height: 1.5;
             font-size: 20px;
